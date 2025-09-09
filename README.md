@@ -128,3 +128,12 @@ superpower: "Turning caffeine into code ⚡"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+## 📊 Contribution Activity  
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindupramod755&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+
